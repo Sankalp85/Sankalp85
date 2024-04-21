@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sankalp85 aka Sankalp Gupta 
 - 👀 I’m interested in learning in web development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning js
 
 - 📫 How to reach me www.linkedin.com/in/sankalpgupta25
 
